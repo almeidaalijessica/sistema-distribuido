@@ -1,0 +1,14 @@
+{
+    "name":"teste",
+    "version": "1.0.0",
+    "description": "",
+    "sain":"index.js",
+    "scripts": {
+        "test":"echa\"error no test specified\"&& exit 1",
+        "start":"node indec.js"
+
+    },
+    "author": "jessica",
+    "license": "isc"
+
+}
